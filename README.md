@@ -1,2 +1,2 @@
 # -web-scraping
-how to extract data from web to you python scrip without entering in web page 
+how to extract data from web page to you python scrip without entering in web page 
